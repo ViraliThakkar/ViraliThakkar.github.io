@@ -4,9 +4,12 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Today, I stand at the intersection of <i>Software Development and Data Engineering</i>. I am fascinated by Data Ingestion, Distributed File Systems, Batch and Real Time Processing. I consider technologies like Kafka, Apache Spark and Scala as my Superpowers. Processing and storing data consistently and efficiently across a distributed cluster of dozens (or hundreds) of servers. Ingesting complex, semi-structured data from a variety of real-world sources that dynamically evolve. Monitoring systems in real-time to automate decisions within milliseconds of incoming events. I have been exploring these problems and learning a lot through the experience.</p>
+<p><i>If we tried to think of a good idea, we wouldn’t have been able to think of a good idea. You just have to find the solution for a problem in your own life.</i> I am fascinated by the process of architecting software applications. I believe in every software you make, there needs to be a better architecture. You’re most likely to be productive when you’re trying to make the code as separate and clean as possible. Problem-Solving is what I am passionate about. It gives me immense pleasure to work in teams and seize the opportunity to mentor and be mentored. In the past, I have worked on projects in various capacities like Data Mining, Information Retrieval and Web Services. Throughout this journey, I got exposed to technologies like Apache Spark, Scala, Kafka, Python, and Java. </p>
 
-<p>Besides this, I am a <i>Motivator</i> who loves to pump up everyone around me. I believe that teaching someone is the best way to learn. I love to teach. Exchange of knowledge can take you places. I love the ideology that one can ‘change’ things for the good. At the end, you must use your knowledge to make world a better place.  Also, I am in constant search for hobbies. Stand-up Comedy is something I aspire to commence. I love writing funny short poems! That’s me!</p>
+
+
+<p>I aspire to become an <i>Entrepreneur</i> and build something that can change the world. This is my way of giving it back to the society. I will soon be joining VMware as a Software Engineer. With all the experience I acquire, I look forward to creating an impact.</p>
+
 
 <!--<h2>Skills</h2>-->
 

@@ -1,6 +1,6 @@
 # main text of home
-name: Dhiraj Ramnani
-bio: A Software Engineer who becomes a Stand-up Comedian at times!
+name: Virali Thakkar
+bio: A Software Engineer with purpose to make world a better place!
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,15 +8,15 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/IMG_1552.jpg
+picture: assets/images/IMG_1334.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: assets/pdf/Dhiraj_Ramnani_Resume_V17.pdf
+resume-url: assets/pdf/Virali_Thakkar_Resume.pdf
 
-url: https://dhirajhr.github.io
+url: https://ViraliThakkar.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -39,26 +39,26 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: dhirajhr
+linkedin: virali1
 # youtube: myyoutube
 # spotify: myspotify
-github: dhirajhr
+github: ViraliThakkar
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: dramnani
+# medium: dramnani
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: dhirajhr2013@gmail.com
+email: vcthakka@usc.edu
 
 authors:
     johndoe:
-        name: Dhiraj Ramnani
-        bio: A Software Engineer who becomes a Stand-up Comedian at times!
+        name: Virali Thakkar
+        bio: A Software Engineer with purpose to make world a better place!
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/IMG_1334.jpg
         #twitter: johndoe
     #jamesfoster:
         #name: James Foster
@@ -81,7 +81,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
